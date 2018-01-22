@@ -1,1 +1,12 @@
-theme: jekyll-theme-dinky
+title: Mehmet Can Kanpolat
+description: Mehmet Can Kanpolat Blog
+
+username: Mehmet Can Kanpolat
+user_title: Software Architect
+email: mehmetcan@kanpolat.net
+github_username:  mckanpolat
+
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
